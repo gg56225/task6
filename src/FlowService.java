@@ -1,7 +1,7 @@
 import java.util.List;
 
-public class ПотокСервис {
-    public List<Поток> sortStreams(List<Поток> streamList) {
+public class FlowService {
+    public List<Flow> sortStreams(List<Flow> streamList) {
         streamList.sort(new StreamComparator());
         return streamList;
     }
