@@ -8,3 +8,4 @@ public class StreamComparator implements Comparator<Flow> { // Сравнени�
         return Integer.compare(flow1.getGroupList().size(), flow2.getGroupList().size());
     }
 }
+

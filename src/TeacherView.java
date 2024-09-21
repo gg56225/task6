@@ -7,3 +7,4 @@ public class TeacherView implements UserView<Teacher>{
         }
     }
 }
+

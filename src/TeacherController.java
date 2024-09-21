@@ -19,3 +19,4 @@ public class TeacherController implements UserController<Teacher>{
         return teachers;
     }
 }
+
